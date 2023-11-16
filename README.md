@@ -7,9 +7,6 @@
 
 
 
-https://github.com/Benny0323/BS-Diff/assets/104205136/1f96db91-9489-4bcd-866b-3909e40f0ded
-
-
 ## Proposed method 
 
 We spend a lot of time collecting and summarizing relevant papers and datasets, where you can find them at https://github.com/diaoquesang/Diffusion_model-based_bone_suppression_in_chest_X-rays
