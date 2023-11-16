@@ -5,15 +5,7 @@
 ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=FFFFFF)
 
-## **To-do List:**
-- [x] Get better results
-- [x] EMA optimization
-- [x] Enhancement module AE with different loss functions combination
-- [x] Comparison experiment(Gusarev et al. 2017 / VQ-GAN / Zhou et al. 2018 / Diffusion + w/o AE / Ours)
-- [x] Ablation study(w/o AE w/AE)
-- [x] Data-preprocessing(contrast enhancement & registration)
-- [x] Model hyper-parameters comparison adjustment
-- [x] Review the Bone Suppression Related Paper Highlights
+https://github.com/Benny0323/BS-Diff/blob/main/Display.mp4
 
 ## Proposed method 
 
