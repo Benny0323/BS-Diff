@@ -5,7 +5,10 @@
 ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=FFFFFF)
 
-https://github.com/Benny0323/BS-Diff/blob/main/Display.mp4
+
+
+https://github.com/Benny0323/BS-Diff/assets/104205136/1f96db91-9489-4bcd-866b-3909e40f0ded
+
 
 ## Proposed method 
 
