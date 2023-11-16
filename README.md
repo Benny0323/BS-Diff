@@ -5,7 +5,8 @@
 ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=FFFFFF)
 
-https://github.com/Benny0323/BS-Diff/blob/main/ezgif.com-video-to-gif.gif
+![ezgif com-video-to-gif](https://github.com/Benny0323/BS-Diff/assets/104205136/e8edb3b0-559d-4a61-90ac-9a6ea53e7a4e)
+
 
 ## Proposed method 
 
