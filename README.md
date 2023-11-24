@@ -33,14 +33,15 @@ while preserving overall structures**. The image below shows our proposed networ
 ### Download the dataset
 Now, we only provide three paired images with CXRs and soft-tissues. Soon, we will make them available to the public after data usage permission. Theree paired images are located at
 ```
-├─ BS
-│    ├─ 0.png
-│    ├─ 1.png
-│    └─ 2.png
-├─ CXR
-│    ├─ 0.png
-│    ├─ 1.png
-│    └─ 2.png
+├─ Stage1
+│    ├─ BS_Aug
+│    │    ├─ 0.png
+│    │    ├─ 1.png
+│    │    └─ 2.png
+│    ├─ CXR_Aug
+│    │    ├─ 0.png
+│    │    ├─ 1.png
+│    │    └─ 2.png
 ```
 ## Getting started to evaluate
 ### Install dependencies
@@ -49,9 +50,7 @@ pip install -r requirements.txt
 ```
 ### Download the checkpoint
 Due to the fact that our proposed model comprises two stages, you need to download both stages' checkpoints to successfully run the codes!
-```
 
-```
 ### Evaluation
 To do the evaluation process, first run the following command of stage 1 (the conditional diffusion model):
 ```
@@ -74,9 +73,9 @@ These two files are located at
 ```
 ├─ Stage1
 │    └─ Train.py
-└─ Stage2
-     ├─ Hybridloss_autoencoderkl.py
-     └─ pytorch_msssim.py
+├─ Stage2
+│    ├─ Hybridloss_autoencoder.py
+│    └─ pytorch_msssim.py
 ```
 **Attention: the file 'pytorch_ssim.py' should be used during training in stage 2. So do not delete it!**
 
