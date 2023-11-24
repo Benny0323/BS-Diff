@@ -50,7 +50,7 @@ pip install -r requirements.txt
 ```
 ### Download the checkpoint
 Due to the fact that our proposed model comprises two stages, you need to download both stages' checkpoints to successfully run the codes!
-
+These two files can be found in this link and you can easily download them: 
 ### Evaluation
 To do the evaluation process, first run the following command of stage 1 (the conditional diffusion model):
 ```
