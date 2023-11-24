@@ -31,17 +31,16 @@ while preserving overall structures**. The image below shows our proposed networ
 * NVIDIA GPU (memory>=5G) + CUDA cuDNN
 
 ### Download the dataset
-Now, we only provide three paired images with CXRs and soft-tissues. Soon, we will make them available to the public. They are located at
+Now, we only provide three paired images with CXRs and soft-tissues. Soon, we will make them available to the public after data usage permission. Theree paired images are located at
 ```
-├─ Stage1
-│    ├─ BS
-│    │    ├─ 0.png
-│    │    ├─ 1.png
-│    │    └─ 2.png
-│    ├─ CXR
-│    │    ├─ 0.png
-│    │    ├─ 1.png
-│    │    └─ 2.png
+├─ BS
+│    ├─ 0.png
+│    ├─ 1.png
+│    └─ 2.png
+├─ CXR
+│    ├─ 0.png
+│    ├─ 1.png
+│    └─ 2.png
 ```
 ## Getting started to evaluate
 ### Install dependencies
