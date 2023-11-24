@@ -34,11 +34,11 @@ while preserving overall structures**. The image below shows our proposed networ
 Now, we only provide three paired images with CXRs and soft-tissues. Soon, we will make them available to the public. They are located at
 ```
 ├─ Stage1
-│    ├─ BS_Aug
+│    ├─ BS
 │    │    ├─ 0.png
 │    │    ├─ 1.png
 │    │    └─ 2.png
-│    ├─ CXR_Aug
+│    ├─ CXR
 │    │    ├─ 0.png
 │    │    ├─ 1.png
 │    │    └─ 2.png
