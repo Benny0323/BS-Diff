@@ -9,7 +9,7 @@
 
 ## Proposed method 
 
-We spend a lot of time collecting and summarizing relevant papers and datasets, where you can find them at https://github.com/diaoquesang/Diffusion_model-based_bone_suppression_in_chest_X-rays
+We spend a lot of time collecting and summarizing relevant papers and datasets, where you can find them at https://github.com/diaoquesang/A-detailed-summarization-about-bone-suppression-in-Chest-X-rays
 
 This code is a pytorch implementation of our paper "BS-Diff: Effective Bone Suppression in CXRs via Conditional Diffusion Models", which is **under review by ISBI2024**.
 
