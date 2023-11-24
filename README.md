@@ -50,10 +50,7 @@ pip install -r requirements.txt
 ### Download the checkpoint
 Due to the fact that our proposed model comprises two stages, you need to download both stages' checkpoints to successfully run the codes!
 ```
-├─ Stage1
-│    ├─ Aug_Final_ctrain.pth
-└─ Stage2
-     ├─ Aug_Hybrid_autoencoderkl.pth
+
 ```
 ### Evaluation
 To do the evaluation process, first run the following command of stage 1 (the conditional diffusion model):
