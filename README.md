@@ -22,7 +22,7 @@ while preserving overall structures**. The image below shows our proposed networ
 ![image](https://github.com/Benny0323/BS/blob/main/contrast.png)
 
 ## Comparison performance with previous works (visualization)
-
+![image](https://github.com/Benny0323/BS/blob/main/comparison.png)
 ## Pre-requisties
 * Linux
 
