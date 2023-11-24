@@ -85,12 +85,7 @@ These two files are located at
 **Attention: the file 'pytorch_ssim.py' should be used during training in stage 2. So do not delete it!**
 
 ## Comparison metrics
-You can also run our codes about PSNR, SSIM, MSE and BSR, which are located at
+You can also run the following commands about evaluation metrics in our experiment incuding PSNR, SSIM, MSE and BSR:
 ```
-├─ Metrics
-│    ├─ BSR.py
-│    ├─ L2_loss.py
-│    ├─ SSIM_PSNR.py
-│    └─ resize.py
-```
-## Citation
+python metrics.py
+```      
