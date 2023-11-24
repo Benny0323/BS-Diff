@@ -27,10 +27,10 @@ while preserving overall structures**. The image below shows our proposed networ
 
 * Python>=3.7
 
-* NVIDIA GPU (memory>=6G) + CUDA cuDNN
+* NVIDIA GPU (memory>=5G) + CUDA cuDNN
 
 ### Download the dataset
-Now, we only provide three paired pictures with CXRs and soft-tissues. Soon, we will make them available to the public. They are located at
+Now, we only provide three paired images with CXRs and soft-tissues. Soon, we will make them available to the public. They are located at
 ```
 ├─ Stage1
 │    ├─ BS_Aug
