@@ -70,7 +70,7 @@ class myTransformMethod():  # Python3默认继承object类
 
 
 if config.use_server:
-    file = open('Aug_MONAI_AutoencoderKL_log.txt', 'w')  # 保存日志位置
+    file = open('Aug_MONAI_Autoencoder_log.txt', 'w')  # 保存日志位置
 else:
     file = None  # 取消日志输出
 
@@ -224,7 +224,7 @@ for epoch in range(n_epochs):
 
         val_loss /= val_step
         val_recon_epoch_loss_list.append(val_loss)
-        torch.save(model, "Aug_MONAI_autoencoderkl.pth")
+        torch.save(model, "Aug_MONAI_autoencoder.pth")
 
 total_time = time.time() - total_start
 print(f"train completed, total time: {total_time}.")
