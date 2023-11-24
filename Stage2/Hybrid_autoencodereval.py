@@ -64,7 +64,7 @@ optimizer = torch.optim.AdamW(params=model.parameters(), lr=1e-4)
 
 
 if __name__ == "__main__":
-    model = torch.load("Aug_MONAI_autoencoderkl.pth").to(device)
+    model = torch.load("Aug_MONAI_autoencoder.pth").to(device)
     model.eval()
 
     with (torch.no_grad()):
