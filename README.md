@@ -25,7 +25,7 @@ while preserving overall structures**. The image below shows our proposed networ
 ![image](https://github.com/Benny0323/BS/blob/main/Comparison.png)
 
 ## Clinical evaluation
-![image](https://github.com/Benny0323/BS/blob/main/Clinical evaluation.png)
+![image](https://github.com/Benny0323/BS-Diff/blob/main/Cliniacl%20evaluation.png)
 ## Pre-requisties
 * Linux
 
