@@ -24,7 +24,7 @@ while preserving overall structures**. The image below shows our proposed networ
 ## Comparison performance with previous works (visualization)
 ![image](https://github.com/Benny0323/BS/blob/main/Comparison.png)
 
-## Clinical evaluation
+## Clinical evaluation(Maximum 3 for each point)
 ![image](https://github.com/Benny0323/BS-Diff/blob/main/Cliniacl%20evaluation.png)
 ## Pre-requisties
 * Linux
