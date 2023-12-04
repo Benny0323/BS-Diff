@@ -23,6 +23,9 @@ while preserving overall structures**. The image below shows our proposed networ
 
 ## Comparison performance with previous works (visualization)
 ![image](https://github.com/Benny0323/BS/blob/main/Comparison.png)
+
+## Clinical evaluation
+![image](https://github.com/Benny0323/BS/blob/main/contrast.png)
 ## Pre-requisties
 * Linux
 
