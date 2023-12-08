@@ -25,7 +25,9 @@ while preserving overall structures**. The figure below shows our proposed netwo
 ![image](https://github.com/Benny0323/BS/blob/main/Comparison.png)
 
 ## Clinical evaluation(Maximum 3 for each point)
+The results below demonstrated that our soft-tissues can **clearly preserve the visibility of pulmonary vessels and central airways and greatly suppress bones**, which can significantly improve the clinician’s performance in finding lung lesions.
 ![image](https://github.com/Benny0323/BS-Diff/blob/main/Cliniacl%20evaluation.png)
+
 ## Pre-requisties
 * Linux
 
