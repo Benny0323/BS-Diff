@@ -26,7 +26,57 @@ while preserving overall structures**. The figure below shows our proposed netwo
 
 ## Clinical evaluation(Maximum 3 for each point)
 The results below demonstrated that our soft-tissues can **clearly preserve the visibility of pulmonary vessels and central airways and greatly suppress bones**, which can significantly improve the clinician’s performance in finding lung lesions.
-![image](https://github.com/Benny0323/BS-Diff/blob/main/Cliniacl%20evaluation.png)
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Clinical Evaluation Criteria</th>
+    <th>Junior clinian</th>
+    <th>Intermediate clinian</th>
+    <th>Senior clinian</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td rowspan="3">Pulmonary<br><br>vessels<br><br>visibility</td>
+    <td>Clearly displayed (3)</td>
+    <td rowspan="3">2</td>
+    <td rowspan="3">3</td>
+    <td rowspan="3">3</td>
+  </tr>
+  <tr>
+    <td>Displayed (2)</td>
+  </tr>
+  <tr>
+    <td>Not displayed (1)</td>
+  </tr>
+  <tr>
+    <td rowspan="3">Central<br><br>airway<br><br>visibility</td>
+    <td>Lobar and intermediate bronchi (3)</td>
+    <td rowspan="3">2</td>
+    <td rowspan="3">3</td>
+    <td rowspan="3">2</td>
+  </tr>
+  <tr>
+    <td>Main bronchus and rump (2)</td>
+  </tr>
+  <tr>
+    <td>Trachea (1)</td>
+  </tr>
+  <tr>
+    <td rowspan="3">Degree of<br><br>bone sup-<br><br>pression</td>
+    <td>Nearly perfect suppression (3)</td>
+    <td rowspan="3">2</td>
+    <td rowspan="3">2</td>
+    <td rowspan="3">2</td>
+  </tr>
+  <tr>
+    <td>Unsuppressed bones less than 5 (2)</td>
+  </tr>
+  <tr>
+    <td>5 or more bones unsuppressed (1)</td>
+  </tr>
+</tbody>
+</table>
 
 ## Pre-requisties
 * Linux
