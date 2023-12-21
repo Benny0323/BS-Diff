@@ -21,8 +21,6 @@ from tqdm import tqdm
 from generative.networks.nets import DiffusionModelUNet
 from generative.inferers import DiffusionInferer
 
-from modules.unet import UNetModel
-
 @dataclass
 class config():
     num_train_timesteps = 1000
