@@ -83,7 +83,7 @@ The results below demonstrated that our soft-tissues can **clearly preserve the 
 
 * Python>=3.7
 
-* NVIDIA GPU (memory>=5G) + CUDA cuDNN
+* NVIDIA GPU (memory>=6G) + CUDA cuDNN
 
 ### Download the dataset
 Now, we only provide three paired images with CXRs and soft-tissues via pre-processing. Soon, we will make them available to the public after data usage permission. Theree paired images are located at
