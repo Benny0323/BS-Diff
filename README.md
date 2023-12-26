@@ -88,7 +88,7 @@ The results below demonstrated that our soft-tissues can **clearly preserve the 
 ### Download the dataset
 Now, we only provide three paired images with CXRs and soft-tissues via pre-processing. Soon, we will make them available to the public after data usage permission. Theree paired images are located at
 ```
-├─ Stage1
+├─ Data
 │    ├─ BS_Aug
 │    │    ├─ 0.png
 │    │    ├─ 1.png
