@@ -7,10 +7,11 @@
 
 <div align=center><img width="500" height="500" src="https://github.com/Benny0323/BS-Diff/assets/104205136/e8edb3b0-559d-4a61-90ac-9a6ea53e7a4e)"/></div>
 
-Congratulations! Our paper has been accepted by ISBI 2024.
+### Congratulations! Our paper has been accepted by ISBI 2024.
+
 ## Proposed method 
 
-### We spend a lot of time collecting and summarizing relevant papers and datasets, where you can find them at https://github.com/diaoquesang/A-detailed-summarization-about-bone-suppression-in-Chest-X-rays
+We spend a lot of time collecting and summarizing relevant papers and datasets, where you can find them at https://github.com/diaoquesang/A-detailed-summarization-about-bone-suppression-in-Chest-X-rays
 
 This code is a pytorch implementation of our paper "BS-Diff: Effective Bone Suppression in CXRs via Conditional Diffusion Models".
 
