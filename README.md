@@ -68,7 +68,7 @@ The results below demonstrated that our soft-tissues can **clearly preserve the 
     <td rowspan="3">Degree of<br><br>bone sup-<br><br>pression</td>
     <td>Nearly perfect suppression (3)</td>
     <td rowspan="3">2</td>
-    <td rowspan="3">2</td>
+    <td rowspan="3">3</td>
     <td rowspan="3">2</td>
   </tr>
   <tr>
