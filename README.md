@@ -13,7 +13,7 @@
 
 We spend a lot of time collecting and summarizing relevant papers and datasets, where you can find them at https://github.com/diaoquesang/A-detailed-summarization-about-bone-suppression-in-Chest-X-rays
 
-This code is a pytorch implementation of our paper "BS-Diff: Effective Bone Suppression in CXRs via Conditional Diffusion Models".
+This code is a PyTorch implementation of our paper "BS-Diff: Effective Bone Suppression in CXRs via Conditional Diffusion Models".
 
 Our proposed framework comprises two stages: **a conditional diffusion model (CDM) equipped with a U-Net architecture and a simple enhancement module** that incorporates an autoencoder. It can not only generate soft tissue images with **a high bone suppression ratio** but also possess the capability to **capture fine image information and spatial features,
 while preserving overall structures**. The figure below shows our proposed network.
@@ -27,7 +27,7 @@ while preserving overall structures**. The figure below shows our proposed netwo
 ![image](https://github.com/Benny0323/BS/blob/main/Comparison.png)
 
 ## Clinical evaluation
-The results below demonstrated that our soft-tissues can **clearly preserve the visibility of pulmonary vessels and central airways and greatly suppress bones**, which can significantly improve the clinician’s performance in finding lung lesions. Each criterion has a maximum score of 3.
+The results below demonstrated that our soft-tissues can **clearly preserve the visibility of pulmonary vessels and central airways and greatly suppress bones**, significantly improving the clinician’s performance in finding lung lesions. Each criterion has a maximum score of 3.
 <table>
 <thead>
   <tr>
@@ -144,7 +144,7 @@ These two files are located at
 ```
 
 ## Evaluation metrics
-You can also run the following commands about evaluation metrics in our experiment incuding PSNR, SSIM, MSE and BSR:
+You can also run the following commands about evaluation metrics in our experiment including PSNR, SSIM, MSE and BSR:
 ```
 python metrics.py
 ```      
