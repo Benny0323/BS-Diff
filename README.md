@@ -101,8 +101,8 @@ Now, we only provide three paired images with CXRs and soft-tissues via pre-proc
 │    │    └─ 2.png
 ```
 
-Note: Please download **BS-Diff-v.1.1.zip** in **Release** to get the latest codes.
 ## Getting started to evaluate
+Note: Please download **BS-Diff-v.1.1.zip** in **Release** to get the latest codes.
 ### Install dependencies
 ```
 pip install -r requirements.txt
