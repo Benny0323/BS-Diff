@@ -85,7 +85,7 @@ if __name__ == "__main__":
                 #noisy_images = noise_scheduler.add_noise(sample[:, 1], noise, cxr_time)
                 #sample[:, 1] = noisy_images
                 residual = model(sample, timesteps=torch.Tensor((t,)).to(sample.device).long())  # predict the noise
-            sample = noise_scheduler.step(residual, t, sample).prev_sample # 1 * 2 * H * W
+            sample = noise_scheduler.step(residual, t, sample).pred_original_sample # 1 * 2 * H * W
             sample = torch.squeeze(sample, dim=-4)  # 2 * H * W
             sample = sample[0]  # sample的预测x_0结果 H * W
             sample = torch.unsqueeze(sample, dim=-3)  # 1 * H * W
