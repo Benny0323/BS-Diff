@@ -81,9 +81,9 @@ if __name__ == "__main__":
         for j, t in tqdm(enumerate(noise_scheduler.timesteps)):
             sample = noise_scheduler.scale_model_input(sample, t)
             with torch.no_grad():
-                cxr_time = torch.Tensor((t,)).to(sample.device).long().repeat(CXR_T)
-                noisy_images = noise_scheduler.add_noise(sample[:, 1], noise, cxr_time)
-                sample[:, 1] = noisy_images
+                #cxr_time = torch.Tensor((t,)).to(sample.device).long().repeat(CXR_T)
+                #noisy_images = noise_scheduler.add_noise(sample[:, 1], noise, cxr_time)
+                #sample[:, 1] = noisy_images
                 residual = model(sample, timesteps=torch.Tensor((t,)).to(sample.device).long())  # predict the noise
             sample = noise_scheduler.step(residual, t, sample).prev_sample # 1 * 2 * H * W
             sample = torch.squeeze(sample, dim=-4)  # 2 * H * W
