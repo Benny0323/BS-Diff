@@ -148,4 +148,15 @@ These two files are located at
 You can also run the following commands about evaluation metrics in our experiment including PSNR, SSIM, MSE and BSR:
 ```
 python metrics.py
-```      
+```
+## Citation
+```
+@inproceedings{chen2024bs,
+  title={BS-Diff: Effective Bone Suppression Using Conditional Diffusion Models From Chest X-Ray Images},
+  author={Chen, Zhanghao and Sun, Yifei and Ge, Ruiquan and Qin, Wenjian and Pan, Cheng and Deng, Wenming and Liu, Zhou and Min, Wenwen and Elazab, Ahmed and Wan, Xiang and others},
+  booktitle={2024 IEEE International Symposium on Biomedical Imaging (ISBI)},
+  pages={1--5},
+  year={2024},
+  organization={IEEE}
+}
+```
