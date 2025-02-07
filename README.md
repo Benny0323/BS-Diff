@@ -28,57 +28,21 @@ while preserving overall structures**. The figure below shows our proposed netwo
 
 ## Clinical evaluation
 The results below demonstrated that our soft-tissues can **clearly preserve the visibility of pulmonary vessels and central airways and greatly suppress bones**, significantly improving the clinician’s performance in finding lung lesions. Each criterion has a maximum score of 3.
-<table style="text-align: center;">
-<thead>
-  <tr>
-    <th colspan="2">Clinical Evaluation Criteria</th>
-    <th>Junior clinian</th>
-    <th>Intermediate clinian</th>
-    <th>Senior clinian</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td rowspan="3" style="vertical-align: middle; text-align: center;">Pulmonary<br>vessels<br>visibility</td>
-    <td style="text-align: center;">Clearly displayed (3)</td>
-    <td rowspan="3" style="text-align: center;">2</td>
-    <td rowspan="3" style="text-align: center;">3</td>
-    <td rowspan="3" style="text-align: center;">3</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">Displayed (2)</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">Not displayed (1)</td>
-  </tr>
-  <tr>
-    <td rowspan="3" style="vertical-align: middle; text-align: center;">Central<br>airway<br>visibility</td>
-    <td style="text-align: center;">Lobar and intermediate bronchi (3)</td>
-    <td rowspan="3" style="text-align: center;">2</td>
-    <td rowspan="3" style="text-align: center;">3</td>
-    <td rowspan="3" style="text-align: center;">2</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">Main bronchus and rump (2)</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">Trachea (1)</td>
-  </tr>
-  <tr>
-    <td rowspan="3" style="vertical-align: middle; text-align: center;">Degree of<br>bone sup-<br>pression</td>
-    <td style="text-align: center;">Nearly perfect suppression (3)</td>
-    <td rowspan="3" style="text-align: center;">2</td>
-    <td rowspan="3" style="text-align: center;">3</td>
-    <td rowspan="3" style="text-align: center;">2</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">Unsuppressed bones less than 5 (2)</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">5 or more bones unsuppressed (1)</td>
-  </tr>
-</tbody>
-</table>
+<div align="center">
+
+| Clinical Evaluation Criteria | | Junior Clinician | Intermediate Clinician | Senior Clinician |
+|-----------------------------|--------------------------------|----------------|------------------|----------------|
+| **Pulmonary vessels visibility** | Clearly displayed (3) | 2 | 3 | 3 |
+|  | Displayed (2) |  |  |  |
+|  | Not displayed (1) |  |  |  |
+| **Central airway visibility** | Lobar and intermediate bronchi (3) | 2 | 3 | 2 |
+|  | Main bronchus and rump (2) |  |  |  |
+|  | Trachea (1) |  |  |  |
+| **Degree of bone suppression** | Nearly perfect suppression (3) | 2 | 3 | 2 |
+|  | Unsuppressed bones less than 5 (2) |  |  |  |
+|  | 5 or more bones unsuppressed (1) |  |  |  |
+
+</div>
 
 ## Pre-requisties
 * Linux
