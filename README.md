@@ -28,57 +28,82 @@ while preserving overall structures**. The figure below shows our proposed netwo
 
 ## Clinical evaluation
 The results below demonstrated that our soft-tissues can **clearly preserve the visibility of pulmonary vessels and central airways and greatly suppress bones**, significantly improving the clinician’s performance in finding lung lesions. Each criterion has a maximum score of 3.
-<table>
-<thead>
-  <tr>
-    <th colspan="2">Clinical Evaluation Criteria</th>
-    <th>Junior clinian</th>
-    <th>Intermediate clinian</th>
-    <th>Senior clinian</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td rowspan="3">Pulmonary<br><br>vessels<br><br>visibility</td>
-    <td>Clearly displayed (3)</td>
-    <td rowspan="3">2</td>
-    <td rowspan="3">3</td>
-    <td rowspan="3">3</td>
-  </tr>
-  <tr>
-    <td>Displayed (2)</td>
-  </tr>
-  <tr>
-    <td>Not displayed (1)</td>
-  </tr>
-  <tr>
-    <td rowspan="3">Central<br><br>airway<br><br>visibility</td>
-    <td>Lobar and intermediate bronchi (3)</td>
-    <td rowspan="3">2</td>
-    <td rowspan="3">3</td>
-    <td rowspan="3">2</td>
-  </tr>
-  <tr>
-    <td>Main bronchus and rump (2)</td>
-  </tr>
-  <tr>
-    <td>Trachea (1)</td>
-  </tr>
-  <tr>
-    <td rowspan="3">Degree of<br><br>bone sup-<br><br>pression</td>
-    <td>Nearly perfect suppression (3)</td>
-    <td rowspan="3">2</td>
-    <td rowspan="3">3</td>
-    <td rowspan="3">2</td>
-  </tr>
-  <tr>
-    <td>Unsuppressed bones less than 5 (2)</td>
-  </tr>
-  <tr>
-    <td>5 or more bones unsuppressed (1)</td>
-  </tr>
-</tbody>
-</table>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Centered Table</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f4f4f4;
+        }
+        table {
+            border-collapse: collapse;
+            width: 80%;
+            max-width: 800px;
+            background: white;
+            text-align: center;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 10px;
+        }
+        th {
+            background: #ddd;
+        }
+        td[rowspan] {
+            vertical-align: middle;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <thead>
+            <tr>
+                <th colspan="2">Clinical Evaluation Criteria</th>
+                <th>Junior Clinician</th>
+                <th>Intermediate Clinician</th>
+                <th>Senior Clinician</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td rowspan="3">Pulmonary vessels visibility</td>
+                <td>Clearly displayed (3)</td>
+                <td rowspan="3">2</td>
+                <td rowspan="3">3</td>
+                <td rowspan="3">3</td>
+            </tr>
+            <tr><td>Displayed (2)</td></tr>
+            <tr><td>Not displayed (1)</td></tr>
+            <tr>
+                <td rowspan="3">Central airway visibility</td>
+                <td>Lobar and intermediate bronchi (3)</td>
+                <td rowspan="3">2</td>
+                <td rowspan="3">3</td>
+                <td rowspan="3">2</td>
+            </tr>
+            <tr><td>Main bronchus and rump (2)</td></tr>
+            <tr><td>Trachea (1)</td></tr>
+            <tr>
+                <td rowspan="3">Degree of bone suppression</td>
+                <td>Nearly perfect suppression (3)</td>
+                <td rowspan="3">2</td>
+                <td rowspan="3">3</td>
+                <td rowspan="3">2</td>
+            </tr>
+            <tr><td>Unsuppressed bones less than 5 (2)</td></tr>
+            <tr><td>5 or more bones unsuppressed (1)</td></tr>
+        </tbody>
+    </table>
+</body>
+</html>
 
 ## Pre-requisties
 * Linux
