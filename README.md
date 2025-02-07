@@ -160,3 +160,6 @@ python metrics.py
   organization={IEEE}
 }
 ```
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=diaoquesang/A-detailed-summarization-about-bone-suppression-in-Chest-X-rays,Benny0323/BS-Diff&type=Timeline)](https://star-history.com/#diaoquesang/A-detailed-summarization-about-bone-suppression-in-Chest-X-rays&Benny0323/BS-Diff&Timeline)
