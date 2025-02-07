@@ -37,7 +37,7 @@ The results below demonstrated that our soft-tissues can **clearly preserve the 
     <th>Senior clinian</th>
   </tr>
 </thead>
-<tbody>
+<tbody align="center" valign="center">
   <tr>
     <td rowspan="3">Pulmonary<br><br>vessels<br><br>visibility</td>
     <td>Clearly displayed (3)</td>
