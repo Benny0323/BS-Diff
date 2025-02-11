@@ -5,6 +5,11 @@
 ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=FFFFFF)
 
+[![](https://img.shields.io/github/stars/Benny0323/BS-Diff)](https://github.com/Benny0323/BS-Diff)
+[![](https://img.shields.io/github/forks/Benny0323/BS-Diff)](https://github.com/Benny0323/BS-Diff)
+[![](https://img.shields.io/github/issues/Benny0323/BS-Diff)](https://github.com/Benny0323/BS-Diff)
+[![](https://img.shields.io/github/license/Benny0323/BS-Diff)](https://github.com/Benny0323/BS-Diff/blob/main/LICENSE) 
+
 <div align=center><img width="500" height="500" src="https://github.com/Benny0323/BS-Diff/assets/104205136/e8edb3b0-559d-4a61-90ac-9a6ea53e7a4e)"/></div>
 
 ### 🧨 Congratulations! Our paper has been accepted by ISBI 2024(Oral Presentation)!
