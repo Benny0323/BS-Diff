@@ -1,4 +1,4 @@
-# [ISBI 2024 Oral] BS-Diff: Effective Bone Suppression in CXRs via Conditional Diffusion Models
+# BS-Diff: Effective Bone Suppression in CXRs via Conditional Diffusion Models
 
 <div align="center">
   
