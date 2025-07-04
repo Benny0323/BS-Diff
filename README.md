@@ -16,7 +16,7 @@
 
 We spend a lot of time collecting and summarizing relevant papers and datasets, where you can find them at https://github.com/diaoquesang/A-detailed-summarization-about-bone-suppression-in-Chest-X-rays
 
-This code is a PyTorch implementation of our paper "BS-Diff: Effective Bone Suppression in CXRs via Conditional Diffusion Models".
+This code is a PyTorch implementation of our paper "[BS-Diff: Effective Bone Suppression in CXRs via Conditional Diffusion Models](https://ieeexplore.ieee.org/abstract/document/10635371/)".
 
 Our proposed framework comprises two stages: **a conditional diffusion model (CDM) equipped with a U-Net architecture and a simple enhancement module** that incorporates an autoencoder. It can not only generate soft tissue images with **a high bone suppression ratio** but also possess the capability to **capture fine image information and spatial features,
 while preserving overall structures**. The figure below shows our proposed network.
