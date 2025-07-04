@@ -10,7 +10,7 @@
 
 <div align=center><img width="500" height="500" src="https://github.com/Benny0323/BS-Diff/assets/104205136/e8edb3b0-559d-4a61-90ac-9a6ea53e7a4e)"/></div>
 
-### 🧨 Congratulations! Our paper has been accepted by ISBI 2024(Oral Presentation)!
+### 🧨 Congratulations! Our paper has been accepted by ISBI 2024 (Oral Presentation)!
 
 ## Proposed method 
 
